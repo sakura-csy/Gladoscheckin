@@ -2,9 +2,8 @@
 
 ## 食用方式：
 
-### 注册一个GLaDOS的账号([注册地址](https://glados.space/landing/0A58E-NV28S-6U3QV-33VMG))
+### 注册一个GLaDOS的账号([注册地址](https://glados.space/landing))
 
-#### 我的邀请码：([0A58E-NV28S-6U3QV-33VMG](https://0a58e-nv28s-6u3qv-33vmg.glados.space)) 
 
 ### **Fork**本仓库
 
@@ -49,6 +48,9 @@
 ### **star**自己的仓库
 
 ![图片加载失败](imgs/4.png)
+
+## 定时任务
+- 每天 4:00 和 10:00（UTC时间，对应北京时间 12:00 和 18:00）
 
 ## 文件结构
 
