@@ -7,7 +7,7 @@
 支持 **浏览器登录态** · **Cookie 多账号** · **8 个域名** · **Turnstile** · **自动兑换** · **推送**
 
 </div>
-
+chrome-extension://dfjbkedfchmkkkppiookaghpeamallel/options.html
 ---
 
 > [!NOTE]
